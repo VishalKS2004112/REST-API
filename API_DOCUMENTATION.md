@@ -22,4 +22,4 @@ DELETE /v1/users/{id}
 /createUser  
 /deleteUserById  
 /UserList  
-/user/get
+/user/get/1
